@@ -2,6 +2,8 @@
 
 A Model Context Protocol (MCP) server that exposes [Dapr's](https://dapr.io) building blocks as tools for AI agents.
 
+[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/dapr/dapr-mcp-server/badge)](https://scorecard.dev/viewer/?uri=github.com/dapr/dapr-mcp-server)
+
 <!-- TODO(badges): add CI / release / Go version / license badges once first tag is cut -->
 
 ---
